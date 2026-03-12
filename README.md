@@ -5,6 +5,13 @@
 - Preparando-se para o mercado de tecnologia 
 - Contato: silvadesouzaguilherme177@gmail.com
 
+## 👨‍💻 Sobre mim
+
+Sou estudante de Desenvolvimento de Sistemas apaixonado por tecnologia.  
+Atualmente estou estudando Python, HTML e CSS e me preparando para trabalhar na área de programação.
+
+🎯 Objetivo: me tornar desenvolvedor e criar soluções úteis através da tecnologia.
+
 # Tecnologias que estudo 
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
