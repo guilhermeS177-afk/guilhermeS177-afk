@@ -13,15 +13,8 @@ Atualmente estou estudando Python, HTML e CSS e me preparando para trabalhar na 
 🎯 Objetivo: me tornar desenvolvedor e criar soluções úteis através da tecnologia.
 
 # Tecnologias que estudo 
-<div style="display: inline_block"><br> 
-<img align="center" alt="Python" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-<img align="center" alt="HTML" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
-<img align="center" alt="CSS" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-<img align="center" alt="Java" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-<img align="center" alt="Csharp" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-</div>
+## 🚀 Tecnologias que estudo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
